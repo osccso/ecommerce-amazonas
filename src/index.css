@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: rgba(51, 51, 51, 1);
+  position: relative;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#root {
+  min-height: 100vh;
+  justify-content: start;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.magnify {
+  width: 20vw;
+}
