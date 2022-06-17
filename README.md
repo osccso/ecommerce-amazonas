@@ -10,7 +10,7 @@ Project developed with the following functionalities:
 In order to run this project in your computer you require npm package manager and node(>14.*) to be installed.
 
 If you want to run this project on your computer just use your terminal:
-``js
+```js
   npm i
   npm start
 ``
