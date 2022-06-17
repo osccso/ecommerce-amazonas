@@ -13,7 +13,7 @@ If you want to run this project on your computer just use your terminal:
 ```js
   npm i
   npm start
-``
+```
 This will install locally all required packages.
 
 #### THIS IS A WORK IN PROGRESS.... ####
