@@ -7,6 +7,14 @@ Project developed with the following functionalities:
 - Database management (Firebase/Firestore)
 - Redux
 
+This project was developed using the following functionalities:
+
+- React
+- Styled Components
+- React Router
+- React Redux
+- Forms
+
 In order to run this project in your computer you require npm package manager and node(>14.*) to be installed.
 
 If you want to run this project on your computer just use your terminal:
