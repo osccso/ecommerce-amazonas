@@ -26,7 +26,7 @@ This will install locally all required packages.
 
 #### THIS IS A WORK IN PROGRESS.... ####
 
-Follow link below to check it out!!  
+Follow link below to check it out!!  :point_down:
 
 https://amazonas-zeta.vercel.app/
 
